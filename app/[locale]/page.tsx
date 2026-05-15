@@ -2,6 +2,7 @@ import { setRequestLocale } from "next-intl/server";
 import { ContactForm } from "@/components/ContactForm";
 import { Footer } from "@/components/Footer";
 import { Hero } from "@/components/Hero";
+import { Portfolio } from "@/components/Portfolio";
 import { ServiceArea } from "@/components/ServiceArea";
 import { Services } from "@/components/Services";
 import { TopBar } from "@/components/TopBar";
@@ -27,6 +28,7 @@ export default async function HomePage({
       <main>
         <Hero />
         <Services />
+        <Portfolio />
         <WhyChooseUs />
         <ServiceArea />
         <ContactForm />

@@ -25,6 +25,9 @@ export function TopBar() {
           <a className="hover:text-brand" href="#services">
             {t("services")}
           </a>
+          <a className="hover:text-brand" href="#work">
+            {t("work")}
+          </a>
           <a className="hover:text-brand" href="#about">
             {t("about")}
           </a>

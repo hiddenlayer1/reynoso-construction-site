@@ -4,6 +4,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing, type Locale } from "@/i18n/routing";
 import { StructuredData } from "@/components/StructuredData";
+import { fontDisplay, fontSans } from "../fonts";
 import "../globals.css";
 
 export function generateStaticParams() {
@@ -68,7 +69,7 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
 
   return (
-    <html lang={locale}>
+    <html lang={locale} className={`${fontSans.variable} ${fontDisplay.variable}`}>
       <body>
         <NextIntlClientProvider>
           {children}

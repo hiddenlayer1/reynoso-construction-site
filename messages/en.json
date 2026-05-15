@@ -6,6 +6,7 @@
   },
   "nav": {
     "services": "Services",
+    "work": "Recent Work",
     "about": "About",
     "area": "Service Area",
     "contact": "Contact",
@@ -18,7 +19,16 @@
     "subtitle": "From a leaky faucet to a full kitchen remodel — Francisco and the Reynoso Construction crew handle it all, on schedule and on budget.",
     "ctaWhatsApp": "Message on WhatsApp",
     "ctaCall": "Call (347) 634-2725",
-    "whatsappPrefill": "Hi Francisco, I'd like a free estimate for some work at my home."
+    "whatsappPrefill": "Hi Francisco, I'd like a free estimate for some work at my home.",
+    "imageAlt": "Recently completed bathroom remodel in Staten Island — modern beige tile, floating wood vanity with marble integrated sink, glass shower doors, and recessed lighting.",
+    "imageBadge": "Recent project",
+    "imageCaption": "Full bathroom remodel — Staten Island",
+    "seeMore": "See the full before and after",
+    "trust": {
+      "experience": { "label": "Services", "value": "12+" },
+      "services": { "label": "Languages", "value": "EN · ES" },
+      "area": { "label": "Boroughs", "value": "All 5" }
+    }
   },
   "services": {
     "sectionLabel": "What we do",
@@ -77,6 +87,25 @@
         "description": "Replace or upgrade your water heater with proper venting and shut-offs."
       }
     }
+  },
+  "portfolio": {
+    "sectionLabel": "Recent work",
+    "sectionTitle": "See the difference",
+    "sectionSubtitle": "Complete bathroom remodel in Staten Island — demolition, tile, plumbing, lighting, glass, and finish carpentry, all by Francisco's crew.",
+    "dragHint": "Drag the slider to reveal the transformation.",
+    "beforeLabel": "Before",
+    "afterLabel": "After",
+    "project1": {
+      "caption": "Bathroom remodel · Staten Island · doorway view",
+      "beforeAlt": "Worn bathroom interior with dated brown tile, dropped ceiling, and old sink",
+      "afterAlt": "Renovated bathroom interior with modern beige tile, recessed lighting, and glass shower doors"
+    },
+    "project2": {
+      "caption": "Same bathroom · interior view",
+      "beforeAlt": "Original bathroom interior with dated tile, dim lighting, and old fixtures",
+      "afterAlt": "Renovated bathroom with marble integrated sink, floating wood vanity, and modern shower"
+    },
+    "footnote": "Have a project of your own in mind? Send Francisco a few photos on WhatsApp for a free estimate."
   },
   "why": {
     "sectionTitle": "Why neighbors hire Francisco",

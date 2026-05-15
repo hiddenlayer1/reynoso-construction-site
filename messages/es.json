@@ -6,6 +6,7 @@
   },
   "nav": {
     "services": "Servicios",
+    "work": "Trabajos",
     "about": "Nosotros",
     "area": "Área de servicio",
     "contact": "Contacto",
@@ -18,7 +19,16 @@
     "subtitle": "Desde una llave que gotea hasta una remodelación completa de cocina — Francisco y el equipo de Reynoso Construction lo hacen todo, a tiempo y dentro de su presupuesto.",
     "ctaWhatsApp": "Escribir por WhatsApp",
     "ctaCall": "Llamar al (347) 634-2725",
-    "whatsappPrefill": "Hola Francisco, quisiera un estimado gratis para un trabajo en mi casa."
+    "whatsappPrefill": "Hola Francisco, quisiera un estimado gratis para un trabajo en mi casa.",
+    "imageAlt": "Remodelación de baño recién terminada en Staten Island — azulejo beige moderno, mueble flotante de madera con lavamanos integrado de mármol, puertas de ducha de vidrio e iluminación empotrada.",
+    "imageBadge": "Proyecto reciente",
+    "imageCaption": "Remodelación completa de baño — Staten Island",
+    "seeMore": "Ver el antes y después completo",
+    "trust": {
+      "experience": { "label": "Servicios", "value": "12+" },
+      "services": { "label": "Idiomas", "value": "EN · ES" },
+      "area": { "label": "Condados", "value": "Los 5" }
+    }
   },
   "services": {
     "sectionLabel": "Lo que hacemos",
@@ -77,6 +87,25 @@
         "description": "Reemplazo o mejora de su calentador con ventilación y válvulas adecuadas."
       }
     }
+  },
+  "portfolio": {
+    "sectionLabel": "Trabajos recientes",
+    "sectionTitle": "Vea la diferencia",
+    "sectionSubtitle": "Remodelación completa de baño en Staten Island — demolición, azulejos, plomería, iluminación, vidrio y carpintería fina, todo por el equipo de Francisco.",
+    "dragHint": "Arrastre el control para ver la transformación.",
+    "beforeLabel": "Antes",
+    "afterLabel": "Después",
+    "project1": {
+      "caption": "Remodelación de baño · Staten Island · vista desde la puerta",
+      "beforeAlt": "Interior de baño desgastado con azulejos marrones, cielo raso bajado y lavamanos antiguo",
+      "afterAlt": "Interior de baño renovado con azulejos beige modernos, iluminación empotrada y puertas de vidrio"
+    },
+    "project2": {
+      "caption": "El mismo baño · vista interior",
+      "beforeAlt": "Baño original con azulejos antiguos, iluminación pobre y accesorios viejos",
+      "afterAlt": "Baño renovado con lavamanos integrado de mármol, mueble flotante de madera y ducha moderna"
+    },
+    "footnote": "¿Tiene un proyecto en mente? Mándele a Francisco unas fotos por WhatsApp para un estimado gratis."
   },
   "why": {
     "sectionTitle": "Por qué los vecinos llaman a Francisco",
