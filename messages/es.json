@@ -96,14 +96,14 @@
     "beforeLabel": "Antes",
     "afterLabel": "Después",
     "project1": {
-      "caption": "Remodelación de baño · Staten Island · vista desde la puerta",
-      "beforeAlt": "Interior de baño desgastado con azulejos marrones, cielo raso bajado y lavamanos antiguo",
-      "afterAlt": "Interior de baño renovado con azulejos beige modernos, iluminación empotrada y puertas de vidrio"
+      "caption": "Remodelación completa de baño · Staten Island · vista interior",
+      "beforeAlt": "Interior de baño antiguo con azulejos marrones oscuros, lavamanos de pedestal, cielo raso bajado y accesorios viejos",
+      "afterAlt": "Baño renovado con mueble flotante de madera y encimera de mármol, ducha de vidrio sin marco e iluminación empotrada"
     },
     "project2": {
-      "caption": "El mismo baño · vista interior",
-      "beforeAlt": "Baño original con azulejos antiguos, iluminación pobre y accesorios viejos",
-      "afterAlt": "Baño renovado con lavamanos integrado de mármol, mueble flotante de madera y ducha moderna"
+      "caption": "El mismo baño · nueva entrada",
+      "beforeAlt": "Entrada de baño antigua con marco de puerta amarillo desgastado y azulejos marrones visibles al fondo",
+      "afterAlt": "Baño renovado visto a través del nuevo marco de puerta blanco y el pasillo reconstruido"
     },
     "footnote": "¿Tiene un proyecto en mente? Mándele a Francisco unas fotos por WhatsApp para un estimado gratis."
   },

@@ -48,120 +48,28 @@ export function ServiceArea() {
             <p className="mt-8 text-sm italic text-muted">{t("footnote")}</p>
           </div>
 
-          <div className="relative">
-            <NycBoroughsMap />
+          <div className="overflow-hidden rounded-2xl shadow-lg ring-1 ring-slate-200">
+            <iframe
+              title="Reynoso Construction service area — Staten Island and NYC"
+              src="https://www.openstreetmap.org/export/embed.html?bbox=-74.2597%2C40.4773%2C-74.0522%2C40.6501&layer=mapnik&marker=40.5795%2C-74.1501"
+              width="100%"
+              height="380"
+              style={{ border: 0, display: "block" }}
+              loading="lazy"
+            />
+            <p className="bg-surface px-3 py-2 text-center text-xs text-muted">
+              <a
+                href="https://www.openstreetmap.org/?mlat=40.5795&mlon=-74.1501#map=12/40.5795/-74.1501"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline hover:text-brand"
+              >
+                View larger map
+              </a>
+            </p>
           </div>
         </div>
       </div>
     </section>
-  );
-}
-
-function NycBoroughsMap() {
-  return (
-    <svg
-      role="img"
-      aria-label="Map of New York City boroughs with Staten Island highlighted"
-      viewBox="0 0 400 320"
-      className="w-full max-w-md mx-auto"
-      xmlns="http://www.w3.org/2000/svg"
-    >
-      <rect width="400" height="320" rx="16" fill="var(--surface)" />
-      {/* Manhattan */}
-      <path
-        d="M180 70 L195 60 L210 70 L215 130 L200 165 L185 165 L180 130 Z"
-        fill="#cbd5e1"
-        stroke="#94a3b8"
-        strokeWidth="1.5"
-      />
-      <text
-        x="197"
-        y="115"
-        textAnchor="middle"
-        fontSize="9"
-        fill="#475569"
-        fontWeight="600"
-      >
-        Manhattan
-      </text>
-      {/* Bronx */}
-      <path
-        d="M195 60 L255 35 L290 55 L280 90 L240 95 L210 70 Z"
-        fill="#cbd5e1"
-        stroke="#94a3b8"
-        strokeWidth="1.5"
-      />
-      <text
-        x="245"
-        y="65"
-        textAnchor="middle"
-        fontSize="9"
-        fill="#475569"
-        fontWeight="600"
-      >
-        The Bronx
-      </text>
-      {/* Queens */}
-      <path
-        d="M215 130 L240 95 L335 90 L370 145 L320 195 L240 185 L215 165 Z"
-        fill="#cbd5e1"
-        stroke="#94a3b8"
-        strokeWidth="1.5"
-      />
-      <text
-        x="295"
-        y="145"
-        textAnchor="middle"
-        fontSize="10"
-        fill="#475569"
-        fontWeight="600"
-      >
-        Queens
-      </text>
-      {/* Brooklyn */}
-      <path
-        d="M200 165 L240 185 L320 195 L300 250 L220 260 L180 225 Z"
-        fill="#cbd5e1"
-        stroke="#94a3b8"
-        strokeWidth="1.5"
-      />
-      <text
-        x="250"
-        y="225"
-        textAnchor="middle"
-        fontSize="10"
-        fill="#475569"
-        fontWeight="600"
-      >
-        Brooklyn
-      </text>
-      {/* Staten Island — highlighted */}
-      <path
-        d="M70 215 L155 200 L185 235 L165 285 L95 295 L55 265 Z"
-        fill="var(--brand)"
-        stroke="var(--brand-dark)"
-        strokeWidth="2"
-      />
-      <text
-        x="118"
-        y="248"
-        textAnchor="middle"
-        fontSize="11"
-        fill="#ffffff"
-        fontWeight="700"
-      >
-        Staten Island
-      </text>
-      <circle cx="118" cy="262" r="4" fill="#ffffff" />
-      <circle
-        cx="118"
-        cy="262"
-        r="9"
-        fill="none"
-        stroke="#ffffff"
-        strokeWidth="1.5"
-        opacity="0.6"
-      />
-    </svg>
   );
 }

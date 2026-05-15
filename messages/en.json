@@ -96,14 +96,14 @@
     "beforeLabel": "Before",
     "afterLabel": "After",
     "project1": {
-      "caption": "Bathroom remodel · Staten Island · doorway view",
-      "beforeAlt": "Worn bathroom interior with dated brown tile, dropped ceiling, and old sink",
-      "afterAlt": "Renovated bathroom interior with modern beige tile, recessed lighting, and glass shower doors"
+      "caption": "Full bathroom remodel · Staten Island · interior view",
+      "beforeAlt": "Old bathroom interior with dark brown tile, pedestal sink, drop ceiling, and dated fixtures",
+      "afterAlt": "Renovated bathroom with marble-top floating wood vanity, frameless glass shower, and recessed lighting"
     },
     "project2": {
-      "caption": "Same bathroom · interior view",
-      "beforeAlt": "Original bathroom interior with dated tile, dim lighting, and old fixtures",
-      "afterAlt": "Renovated bathroom with marble integrated sink, floating wood vanity, and modern shower"
+      "caption": "Same bathroom · new entrance",
+      "beforeAlt": "Old bathroom doorway with worn yellow door frame and dated brown tile visible inside",
+      "afterAlt": "Renovated bathroom viewed through rebuilt white door frame and new hallway"
     },
     "footnote": "Have a project of your own in mind? Send Francisco a few photos on WhatsApp for a free estimate."
   },

@@ -24,8 +24,8 @@ export function Portfolio() {
 
         <div className="mt-12 grid gap-8 lg:grid-cols-2">
           <BeforeAfter
-            beforeSrc="/projects/bathroom-before-2.jpg"
-            afterSrc="/projects/bathroom-after-2.jpg"
+            beforeSrc="/projects/bathroom-before-1.jpg"
+            afterSrc="/projects/bathroom-after-1.jpg"
             beforeAlt={t("project1.beforeAlt")}
             afterAlt={t("project1.afterAlt")}
             beforeLabel={t("beforeLabel")}
@@ -34,8 +34,8 @@ export function Portfolio() {
             aspectRatio={3 / 4}
           />
           <BeforeAfter
-            beforeSrc="/projects/bathroom-before-1.jpg"
-            afterSrc="/projects/bathroom-after-1.jpg"
+            beforeSrc="/projects/bathroom-before-2.jpg"
+            afterSrc="/projects/bathroom-after-2.jpg"
             beforeAlt={t("project2.beforeAlt")}
             afterAlt={t("project2.afterAlt")}
             beforeLabel={t("beforeLabel")}
