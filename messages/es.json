@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "title": "Reynoso Construction — Mejoras del hogar en Staten Island y NYC",
+    "description": "Contratista de mejoras del hogar con licencia, sirviendo a Staten Island y los cinco condados de Nueva York. Plomería, electricidad, pintura, reparación de techos y pisos, remodelación de cocina y baño, terrazas y más. Estimados gratis por teléfono o WhatsApp.",
+    "ogAlt": "Reynoso Construction — Mejoras del hogar en Staten Island y NYC"
+  },
+  "nav": {
+    "services": "Servicios",
+    "about": "Nosotros",
+    "area": "Área de servicio",
+    "contact": "Contacto",
+    "callNow": "Llame al (347) 634-2725",
+    "languageToggle": "English"
+  },
+  "hero": {
+    "badge": "LLC con licencia en NY · Negocio familiar · Estimados gratis",
+    "title": "Mejoras del hogar de calidad en Staten Island y todo NYC",
+    "subtitle": "Desde una llave que gotea hasta una remodelación completa de cocina — Francisco y el equipo de Reynoso Construction lo hacen todo, a tiempo y dentro de su presupuesto.",
+    "ctaWhatsApp": "Escribir por WhatsApp",
+    "ctaCall": "Llamar al (347) 634-2725",
+    "whatsappPrefill": "Hola Francisco, quisiera un estimado gratis para un trabajo en mi casa."
+  },
+  "services": {
+    "sectionLabel": "Lo que hacemos",
+    "sectionTitle": "Doce servicios. Un equipo de confianza.",
+    "sectionSubtitle": "Reparaciones residenciales, renovaciones e instalaciones en cada rincón de su hogar.",
+    "ctaQuestion": "¿No ve lo que necesita?",
+    "ctaButton": "Pregunte por WhatsApp",
+    "ctaPrefill": "Hola Francisco, tengo una pregunta sobre un trabajo en el que tal vez me pueda ayudar.",
+    "items": {
+      "plumbing": {
+        "name": "Plomería",
+        "description": "Reparación de fugas, cambio de accesorios, destape de drenajes y líneas de suministro."
+      },
+      "electrical": {
+        "name": "Electricidad",
+        "description": "Tomacorrientes, interruptores, iluminación y mejoras menores — hecho según el código."
+      },
+      "painting": {
+        "name": "Pintura",
+        "description": "Interior y exterior — líneas limpias, preparación completa y acabado profesional."
+      },
+      "roofRepair": {
+        "name": "Reparación de techo",
+        "description": "Sellado de filtraciones, flashing, cambio de tejas y daños por tormentas."
+      },
+      "floorRepair": {
+        "name": "Reparación de pisos",
+        "description": "Crujidos, tablas hundidas, daños por agua y refuerzo del piso base."
+      },
+      "flooringInstall": {
+        "name": "Instalación de pisos",
+        "description": "Madera, laminado, vinilo y cerámica — medición e instalación de principio a fin."
+      },
+      "kitchenBath": {
+        "name": "Remodelación de cocina y baño",
+        "description": "Gabinetes, encimeras, azulejos, accesorios y rediseño completo de espacios."
+      },
+      "carpetInstall": {
+        "name": "Instalación de alfombra",
+        "description": "Alfombra de pared a pared sobre acolchado, incluyendo escaleras y transiciones."
+      },
+      "wallpaperInstall": {
+        "name": "Instalación de papel tapiz",
+        "description": "Preparación limpia, costuras a plomo y acabado sin burbujas en cualquier diseño."
+      },
+      "doorInstall": {
+        "name": "Instalación de puertas",
+        "description": "Puertas interiores, exteriores y de tormenta — marcos, herrajes y sellado."
+      },
+      "deckInstall": {
+        "name": "Terrazas — Construcción y reparación",
+        "description": "Construcción de terrazas nuevas, cambio de tablas, reparación de barandas y acabados."
+      },
+      "hotWaterTank": {
+        "name": "Instalación de calentador de agua",
+        "description": "Reemplazo o mejora de su calentador con ventilación y válvulas adecuadas."
+      }
+    }
+  },
+  "why": {
+    "sectionTitle": "Por qué los vecinos llaman a Francisco",
+    "items": {
+      "licensed": {
+        "title": "LLC con licencia en NY",
+        "description": "Home Improvements By Reynoso Construction LLC — registrada con el estado de Nueva York."
+      },
+      "local": {
+        "title": "Local en Staten Island",
+        "description": "Basado en Oldfield St — su vecino, no una empresa grande del otro lado del país."
+      },
+      "free": {
+        "title": "Estimados gratis",
+        "description": "Sin costos ocultos y sin compromiso. Vamos a ver, después le damos el precio por escrito."
+      },
+      "bilingual": {
+        "title": "Inglés y Español",
+        "description": "Atención completa en inglés y en español. Llámenos o escríbanos por WhatsApp."
+      }
+    }
+  },
+  "area": {
+    "sectionTitle": "Dónde trabajamos",
+    "sectionSubtitle": "Basados en Staten Island, disponibles en los cinco condados.",
+    "primary": "Staten Island (área principal)",
+    "alsoServing": "También servimos",
+    "footnote": "¿Fuera de esta área? Mándenos un mensaje — quizás todavía podamos ayudarle."
+  },
+  "contact": {
+    "sectionLabel": "Contáctenos",
+    "sectionTitle": "Pida un estimado gratis",
+    "sectionSubtitle": "Llene el formulario y pulse Enviar. Su mensaje se abrirá directamente en WhatsApp para que Francisco le responda enseguida.",
+    "form": {
+      "name": "Su nombre",
+      "namePlaceholder": "Juan Pérez",
+      "phone": "Su teléfono",
+      "phonePlaceholder": "(347) 555-0123",
+      "service": "Servicio que necesita",
+      "servicePlaceholder": "Seleccione un servicio",
+      "serviceOther": "Otro / no estoy seguro",
+      "details": "¿De qué se trata el trabajo?",
+      "detailsPlaceholder": "Cuéntenos brevemente qué hay que hacer.",
+      "submit": "Enviar por WhatsApp",
+      "greeting": "Hola Francisco — quisiera un estimado gratis."
+    },
+    "or": "o contáctenos directamente",
+    "labels": {
+      "phone": "Teléfono / WhatsApp",
+      "email": "Correo",
+      "facebook": "Facebook"
+    }
+  },
+  "footer": {
+    "tagline": "Mejoras del hogar bien hechas, desde 2025.",
+    "address": "Dirección",
+    "rights": "Todos los derechos reservados.",
+    "nyLicense": "LLC de NY #7572472",
+    "builtNote": "Negocio basado en servicios — solo con cita previa."
+  },
+  "whatsappFloat": {
+    "label": "Chatear por WhatsApp",
+    "prefill": "Hola Francisco, vi su sitio web y quisiera un estimado gratis."
+  }
+}

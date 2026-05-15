@@ -1,0 +1,45 @@
+export const businessInfo = {
+  legalName: "Home Improvements By Reynoso Construction LLC",
+  shortName: "Reynoso Construction",
+  owner: "Francisco Reynoso Taveras",
+  phone: {
+    display: "(347) 634-2725",
+    e164: "+13476342725",
+    digits: "13476342725",
+  },
+  email: "franciscoreynoso6@hotmail.com",
+  facebookUrl: "https://www.facebook.com/Francisco.Construction/",
+  facebookHandle: "@francisco.construction",
+  address: {
+    street: "311 Oldfield St",
+    city: "Staten Island",
+    region: "NY",
+    postal: "10306",
+    country: "US",
+  },
+  nyEntityId: "7572472",
+  formedDate: "2025-03-28",
+  serviceArea: [
+    "Staten Island",
+    "Brooklyn",
+    "Manhattan",
+    "Queens",
+    "The Bronx",
+  ],
+  serviceKeys: [
+    "plumbing",
+    "electrical",
+    "painting",
+    "roofRepair",
+    "floorRepair",
+    "flooringInstall",
+    "kitchenBath",
+    "carpetInstall",
+    "wallpaperInstall",
+    "doorInstall",
+    "deckInstall",
+    "hotWaterTank",
+  ] as const,
+} as const;
+
+export type ServiceKey = (typeof businessInfo.serviceKeys)[number];

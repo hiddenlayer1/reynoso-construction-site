@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "title": "Reynoso Construction — Home Improvements in Staten Island & NYC",
+    "description": "Licensed home improvement contractor serving Staten Island and all five NYC boroughs. Plumbing, electrical, painting, roof and floor repair, kitchen and bath remodeling, decks, and more. Free estimates by phone or WhatsApp.",
+    "ogAlt": "Reynoso Construction — Home Improvements in Staten Island & NYC"
+  },
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "area": "Service Area",
+    "contact": "Contact",
+    "callNow": "Call (347) 634-2725",
+    "languageToggle": "Español"
+  },
+  "hero": {
+    "badge": "Licensed NY LLC · Family owned · Free estimates",
+    "title": "Quality home improvements across Staten Island and NYC",
+    "subtitle": "From a leaky faucet to a full kitchen remodel — Francisco and the Reynoso Construction crew handle it all, on schedule and on budget.",
+    "ctaWhatsApp": "Message on WhatsApp",
+    "ctaCall": "Call (347) 634-2725",
+    "whatsappPrefill": "Hi Francisco, I'd like a free estimate for some work at my home."
+  },
+  "services": {
+    "sectionLabel": "What we do",
+    "sectionTitle": "Twelve services. One trusted crew.",
+    "sectionSubtitle": "Residential repairs, renovations, and installations across every room of your home.",
+    "ctaQuestion": "Don't see what you need?",
+    "ctaButton": "Ask on WhatsApp",
+    "ctaPrefill": "Hi Francisco, I have a question about a job you might be able to help with.",
+    "items": {
+      "plumbing": {
+        "name": "Plumbing",
+        "description": "Leak repair, fixture replacement, drain clearing, and supply-line work."
+      },
+      "electrical": {
+        "name": "Electrical",
+        "description": "Outlets, switches, lighting, and minor service upgrades — done to code."
+      },
+      "painting": {
+        "name": "Painting",
+        "description": "Interior and exterior — clean lines, full prep, and proper-finish coats."
+      },
+      "roofRepair": {
+        "name": "Roof Repair",
+        "description": "Leak patching, flashing, shingle replacement, and storm-damage fixes."
+      },
+      "floorRepair": {
+        "name": "Floor Repair",
+        "description": "Squeaks, sagging boards, water damage, and subfloor reinforcement."
+      },
+      "flooringInstall": {
+        "name": "Flooring Installation",
+        "description": "Hardwood, laminate, vinyl, and tile — measured and installed start to finish."
+      },
+      "kitchenBath": {
+        "name": "Kitchen & Bath Remodeling",
+        "description": "Cabinets, countertops, tile, fixtures, and full layout redesigns."
+      },
+      "carpetInstall": {
+        "name": "Carpet Installation",
+        "description": "Wall-to-wall carpet over padding, including stairs and transitions."
+      },
+      "wallpaperInstall": {
+        "name": "Wallpaper Installation",
+        "description": "Clean prep, plumb seams, and bubble-free finish on any pattern."
+      },
+      "doorInstall": {
+        "name": "Door Installation",
+        "description": "Interior, exterior, and storm doors — frames, hardware, and weather sealing."
+      },
+      "deckInstall": {
+        "name": "Decks — Build & Repair",
+        "description": "New deck builds, board replacement, railing repair, and refinishing."
+      },
+      "hotWaterTank": {
+        "name": "Hot Water Tank Installation",
+        "description": "Replace or upgrade your water heater with proper venting and shut-offs."
+      }
+    }
+  },
+  "why": {
+    "sectionTitle": "Why neighbors hire Francisco",
+    "items": {
+      "licensed": {
+        "title": "NY-licensed LLC",
+        "description": "Home Improvements By Reynoso Construction LLC — registered with New York State."
+      },
+      "local": {
+        "title": "Local to Staten Island",
+        "description": "Based on Oldfield St — your neighbor, not a corporate contractor across the country."
+      },
+      "free": {
+        "title": "Free estimates",
+        "description": "No hidden fees and no obligation. We come look, then we quote in writing."
+      },
+      "bilingual": {
+        "title": "English & Spanish",
+        "description": "Atención completa en inglés y en español. Llámanos o escríbenos por WhatsApp."
+      }
+    }
+  },
+  "area": {
+    "sectionTitle": "Where we work",
+    "sectionSubtitle": "Based in Staten Island, available across all five boroughs.",
+    "primary": "Staten Island (primary service area)",
+    "alsoServing": "Also serving",
+    "footnote": "Outside this area? Send us a message — we still might be able to help."
+  },
+  "contact": {
+    "sectionLabel": "Get in touch",
+    "sectionTitle": "Get a free estimate",
+    "sectionSubtitle": "Fill out the form and tap Send. Your message opens directly in WhatsApp so Francisco can reply right away.",
+    "form": {
+      "name": "Your name",
+      "namePlaceholder": "Jane Smith",
+      "phone": "Your phone",
+      "phonePlaceholder": "(347) 555-0123",
+      "service": "Service you need",
+      "servicePlaceholder": "Select a service",
+      "serviceOther": "Other / not sure",
+      "details": "What's the job?",
+      "detailsPlaceholder": "Tell us a little about what needs to be done.",
+      "submit": "Send via WhatsApp",
+      "greeting": "Hi Francisco — I'd like a free estimate."
+    },
+    "or": "or reach out directly",
+    "labels": {
+      "phone": "Phone / WhatsApp",
+      "email": "Email",
+      "facebook": "Facebook"
+    }
+  },
+  "footer": {
+    "tagline": "Home improvements done right, since 2025.",
+    "address": "Address",
+    "rights": "All rights reserved.",
+    "nyLicense": "NY LLC #7572472",
+    "builtNote": "Service-based business — by appointment only."
+  },
+  "whatsappFloat": {
+    "label": "Chat on WhatsApp",
+    "prefill": "Hi Francisco, I saw your website and would like a free estimate."
+  }
+}
