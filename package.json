@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "typecheck:fast": "tsgo --noEmit",
     "lint:biome": "biome lint .",
     "check:biome": "biome check .",
     "dev": "next dev",
